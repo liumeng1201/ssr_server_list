@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WORK_DIR=""
+WORK_DIR="/home/lm/ssr"
 
 URL="https://raw.githubusercontent.com/nulastudio/Freedom/master/docs/index.html"
 
