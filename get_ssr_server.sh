@@ -21,9 +21,8 @@ echo "" > ssr.txt
 curl $URL -A "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" | grep 'link="ssr://' | while read line; do OPT "$line"; done
 echo "" >> ssr.txt
 
-SER=`echo -n `cat ssr.txt` | base64`
-SER=`echo -n $SER | sed s/[[:space:]]//g`
-echo $SER
+echo -n `cat ssr.txt` | base64 | sed s/[[:space:]]//g > ssr_base64.txt
+cat ssr_base64.txt
 
 echo "=> "`date`". End sync ssr server"
 
