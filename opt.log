@@ -1,6 +1,6 @@
 => Change work dir.
-=> Wed Oct 9 03:00:01 CST 2019. Start sync ssr server.
+=> Thu Oct 10 03:00:01 CST 2019. Start sync ssr server.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 40708  100 40708    0     0  32476      0  0:00:01  0:00:01 --:--:-- 32488
-=> Wed Oct 9 03:00:02 CST 2019. End sync ssr server
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 40708  100 40708    0     0  19422      0  0:00:02  0:00:02 --:--:-- 19431100 40708  100 40708    0     0  19420      0  0:00:02  0:00:02 --:--:-- 19431
+=> Thu Oct 10 03:00:03 CST 2019. End sync ssr server
