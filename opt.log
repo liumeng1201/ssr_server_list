@@ -1,6 +1,6 @@
 => Change work dir.
-=> Tue Dec 17 03:00:01 CST 2019. Start sync ssr server.
+=> Wed Dec 18 03:00:01 CST 2019. Start sync ssr server.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0curl: (7) Failed connect to raw.githubusercontent.com:443; Connection refused
-=> Tue Dec 17 03:00:01 CST 2019. End sync ssr server
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 23498  100 23498    0     0  24921      0 --:--:-- --:--:-- --:--:-- 24918
+=> Wed Dec 18 03:00:02 CST 2019. End sync ssr server
